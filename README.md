@@ -1,6 +1,6 @@
 # Machine-Learning-Data-Analysis-with-Python
 
-This repository contains codes developed during my learning and data analysis procedure with Python.
+This repository contains codes i developed during my learning and data analysis procedure with Python.
 
 It contains training on Numpy, Pandas, Matplotlib, Scipy, Sklearn, Seaborn, H5py, and many other techniques.
 
